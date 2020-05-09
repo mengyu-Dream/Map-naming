@@ -1,4 +1,9 @@
 # UI切图命名规范
+## 启动（default）
+```
+default         启动图片
+default_logo    启动logo
+```
 ## 登陆（login）
 ```
 login_bg        登陆背景图片
@@ -12,6 +17,11 @@ login_btn_s     登录按钮选中状态
 ```
 login_register_rb_n        单选框按钮
 login_register_rb_s        单选框按钮选中状态
+```
+## 首页（home）
+```
+home_bg         首页背景
+login_banner    首页广告图
 ```
 ## 导航栏（nav）
 ``` 
