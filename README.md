@@ -1,14 +1,18 @@
 # UI切图命名规范
 ## 登陆（login）
 ```
-login_bg  登陆背景图片
-login_logo  登陆logo
-login_input_n  输入框
-login_input_s  输入框选中状态
-login_btn_n  登录按钮
-login_btn_s  登录按钮选中状态
+login_bg        登陆背景图片
+login_logo      登陆logo
+login_input_n   输入框
+login_input_s   输入框选中状态
+login_btn_n     登录按钮
+login_btn_s     登录按钮选中状态
 ```
-
+## 注册（register）
+```
+login_register_rb_n        单选框按钮
+login_register_rb_s        单选框按钮选中状态
+```
 ## 导航栏（nav）
 ``` 
 common_nav_btn_menu_n      菜单按钮
